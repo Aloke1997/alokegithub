@@ -3,7 +3,7 @@
 #include <stdio.h> 
 
 // Function Prototype 
-void swapx(int*, int*); 
+void swapx(int, int); 
 
 // Main function 
 int main() 
