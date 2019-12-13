@@ -9,6 +9,6 @@ void swapx(int, int);
 int main() 
 { 
 	int a = 10, b = 20;
-
-return 10; 
+printf("%d %d",a, b); 
+return 0;
 } 
